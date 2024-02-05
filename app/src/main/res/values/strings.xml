@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CAFEBOOKING</string>
+
+
+    <string-array name="foodNames">
+        <item>Tea</item>
+        <item>coffee</item>
+    </string-array>
+
+
+    <array name="foodImages">
+        <item>@drawable/tea</item>
+        <item>@drawable/coffee</item>
+    </array>
+
+    <string-array name="foodPrices">
+        <item>20</item>
+        <item>40</item>
+    </string-array>
+
+
+</resources>

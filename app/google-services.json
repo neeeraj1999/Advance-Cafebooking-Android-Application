@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049157369051",
+    "firebase_url": "https://cafebooking-46d00.firebaseio.com",
+    "project_id": "cafebooking-46d00",
+    "storage_bucket": "cafebooking-46d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049157369051:android:f68aa7ad324e5ec866e0fe",
+        "android_client_info": {
+          "package_name": "com.example.cafebooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049157369051-euo56kttkokif58f58jeqssf40me8eku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafebooking",
+            "certificate_hash": "0aa2521968023a943e401b4fc10d2bb9f41880e5"
+          }
+        },
+        {
+          "client_id": "1049157369051-osjisdchruiq6qpidtou9d1s8uguoqq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9UywJCA0YCwDuweNLNGKdHnrxJf9m0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049157369051-osjisdchruiq6qpidtou9d1s8uguoqq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
